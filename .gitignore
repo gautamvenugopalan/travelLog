@@ -130,3 +130,6 @@ dmypy.json
 
 # Exclude PDFs
 *.pdf
+
+# Exclude OSX numbers files
+*.numbers
